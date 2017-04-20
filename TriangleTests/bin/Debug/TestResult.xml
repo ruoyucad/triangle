@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\chinayxl\Desktop\Triangle\TriangleTests\bin\Debug\TriangleTests.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-19" time="18:46:12">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="ANGELO" user="PC" user-domain="ANGELO" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\chinayxl\Desktop\Triangle\TriangleTests\bin\Debug\TriangleTests.dll" executed="True" result="Success" success="True" time="0.053" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Triangle" executed="True" result="Success" success="True" time="0.047" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.047" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TriangleTesterTests" executed="True" result="Success" success="True" time="0.046" asserts="0">
+                <results>
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest_IsScalene" executed="True" result="Success" success="True" time="0.018" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest2_IsScalene" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest3_IsIsosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest4_IsIsosceles" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest5_IsEquilateral" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest6_IsEquilateral" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest7_NotForm" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Triangle.Tests.TriangleTesterTests.AnalyzeTest8_NotForm" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
